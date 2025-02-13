@@ -21,13 +21,6 @@ This project compares different classification models for predicting seed types 
 - **K-Nearest Neighbors (KNN)**
 - **K-Means Clustering** (Unsupervised Learning)
 
-## Installation
-### Prerequisites
-Ensure you have Python installed along with the required libraries:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn scipy
-```
-
 ## Dataset
 This project requires the **seeds_dataset_1.csv** dataset. Ensure it is placed in the same directory as the script. If missing, you can download it from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/seeds).
 
