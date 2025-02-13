@@ -28,7 +28,7 @@ This project requires the **seeds_dataset_1.csv** dataset. Ensure it is placed i
 ### Running the Script
 Execute the script using:
 ```bash
-python svm_knn_kmeans_classification.py
+python svm_knn_kmeans_classification_6.677.py
 ```
 
 ### Steps Performed
